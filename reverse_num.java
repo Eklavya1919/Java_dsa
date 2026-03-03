@@ -11,6 +11,5 @@ public class reverse_num {
             rn = rn*10 + n%10;
             n/=10;
         }
-        System.out.println(rn);
     }    
 }
